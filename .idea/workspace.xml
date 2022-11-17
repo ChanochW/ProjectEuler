@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c21d8a7e-8602-4ebc-b999-5263b4e91d1b" name="Changes" comment="Problem 8 passes.">
-      <change afterPath="$PROJECT_DIR$/src/Problem10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Problem10Test.java" afterDir="false" />
+    <list default="true" id="c21d8a7e-8602-4ebc-b999-5263b4e91d1b" name="Changes" comment="Problem 10 passes.">
+      <change afterPath="$PROJECT_DIR$/src/Problem14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Problem14Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Problem8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Problem8Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Problem8Test.java" afterDir="false" />
@@ -44,6 +44,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
@@ -57,12 +58,22 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Problem10Test.problem10Test">
+  <component name="RunManager" selected="JUnit.Problem14Test.main">
     <configuration name="Problem10Test.problem10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Problem10Test" />
       <option name="METHOD_NAME" value="problem10Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem14Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem14Test" />
+      <option name="METHOD_NAME" value="main" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Problem14Test.main" />
         <item itemvalue="JUnit.Problem10Test.problem10Test" />
         <item itemvalue="JUnit.Problem8Test.problem8Test" />
         <item itemvalue="JUnit.Problem8Test.project8Test" />
@@ -114,7 +126,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668140073480</updated>
-      <workItem from="1668140075328" duration="11292000" />
+      <workItem from="1668140075328" duration="12181000" />
+      <workItem from="1668319454728" duration="3185000" />
+      <workItem from="1668461977816" duration="14730000" />
     </task>
     <task id="LOCAL-00001" summary="Problem 8 passes.">
       <created>1668140370517</created>
@@ -123,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668140370517</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Problem 10 passes.">
+      <created>1668315212676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668315212676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +163,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Problem 8 passes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 8 passes." />
+    <MESSAGE value="Problem 10 passes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 10 passes." />
   </component>
 </project>
