@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c21d8a7e-8602-4ebc-b999-5263b4e91d1b" name="Changes" comment="Problem 14 passes.">
-      <change afterPath="$PROJECT_DIR$/src/Problem20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Problem20Test.java" afterDir="false" />
+    <list default="true" id="c21d8a7e-8602-4ebc-b999-5263b4e91d1b" name="Changes" comment="Problem 20 passes.">
+      <change afterPath="$PROJECT_DIR$/src/Problem65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Problem65Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,26 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Problem20Test">
-    <configuration name="Problem10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Problem10Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem14Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProjectEuler" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Problem14Test" />
-      <option name="METHOD_NAME" value="main" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Problem65Test">
     <configuration name="Problem20Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="PACKAGE_NAME" value="" />
@@ -95,22 +76,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem65Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem65Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem65Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectEuler" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem65Test" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem8Test.problem8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Problem8Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="problem8Test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Problem65Test" />
+        <item itemvalue="JUnit.Problem65Test.main" />
+        <item itemvalue="JUnit.Problem8Test.problem8Test" />
         <item itemvalue="JUnit.Problem20Test" />
         <item itemvalue="JUnit.Problem20Test.main" />
-        <item itemvalue="JUnit.Problem10Test" />
-        <item itemvalue="JUnit.Problem8Test" />
-        <item itemvalue="JUnit.Problem14Test.main" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +125,7 @@
       <updated>1668140073480</updated>
       <workItem from="1668140075328" duration="12181000" />
       <workItem from="1668319454728" duration="3185000" />
-      <workItem from="1668461977816" duration="18916000" />
+      <workItem from="1668461977816" duration="33759000" />
     </task>
     <task id="LOCAL-00001" summary="Problem 8 passes.">
       <created>1668140370517</created>
@@ -147,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668718955166</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Problem 20 passes.">
+      <created>1668728012146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668728012146</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,17 +176,7 @@
     <MESSAGE value="Problem 8 passes." />
     <MESSAGE value="Problem 10 passes." />
     <MESSAGE value="Problem 14 passes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 14 passes." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Problem20.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Problem 20 passes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 20 passes." />
   </component>
 </project>
